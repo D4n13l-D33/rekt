@@ -1,0 +1,14 @@
+test/=test/
+@node-guardians/=../../../node_modules/@node-guardians/
+@openzeppelin/=../../../node_modules/@openzeppelin/
+@openzeppelin/contracts/=lib/openzeppelin-contracts/contracts/
+basic-proxies/=../../../node_modules/basic-proxies/
+cream-rekt/=../../../node_modules/cream-rekt/
+ds-test/=lib/openzeppelin-contracts/lib/forge-std/lib/ds-test/src/
+erc4626-tests/=lib/openzeppelin-contracts/lib/erc4626-tests/
+forge-std/=/home/v3nu5/ng-questplay/lib/forge-std/src/
+hardhat/=../../../node_modules/hardhat/
+openzeppelin-contracts/=lib/openzeppelin-contracts/
+openzeppelin-upgrades/=../../../node_modules/openzeppelin-upgrades/
+proxy-security/=../../../node_modules/proxy-security/
+setting-up/=../../../node_modules/setting-up/
